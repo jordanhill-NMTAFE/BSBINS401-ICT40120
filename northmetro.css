@@ -183,9 +183,13 @@ section.lead {
 table {
   width: 100%;
   border-collapse: collapse;
-  margin: 2em 0;
-  font-size: 24px;
-  font-family: "Arial", sans-serif;
+  /* margin: 2em 0; */
+  /* font-size: 24px; */
+  /* font-family: "Arial", sans-serif; */
+  /* margin: 2em 2em 2em 2em; */
+  /* justify-content: center; */
+  /* padding: 0em 5em 0em 0em; */
+  text-align: left;
 }
 
 /* Table header styling */

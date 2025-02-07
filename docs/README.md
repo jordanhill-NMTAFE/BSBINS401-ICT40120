@@ -58,6 +58,9 @@ The course concludes with **Assessment 3**: an **In-Class Open Book Exam** in We
 ## Course Materials
 
 - **Week 1 Slides**: [Session 1: Introduction to the Course and Data Science](week_1.html)
+- **Week 2 Slides**: [Session 2: Data Visualization Basics and Tools Overview](week_2.html)
+
+
 - **Learning Resources**:
   - *Python for Data Analysis* by Wes McKinney
   - *Storytelling with Data* by Cole Nussbaumer Knaflic

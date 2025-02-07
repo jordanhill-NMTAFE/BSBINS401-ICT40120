@@ -69,7 +69,7 @@ Lecturer: Jordan Hill
 
 ## Assessments Overview
 
-<table style="margin: 2em 2em 2em 2em ; justify-content: center; padding: 0em 5em 0em 0em ;">
+<table style="margin: 2em 2em 2em 2em ; justify-content: center; padding: 0em 5em 0em 0em ; font-size: 24px;">
 <tr>
 <th>Assessment</th>
 <th>Description</th>
