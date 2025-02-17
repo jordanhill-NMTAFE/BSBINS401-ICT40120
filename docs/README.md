@@ -59,6 +59,8 @@ The course concludes with **Assessment 3**: an **In-Class Open Book Exam** in We
 
 - **Week 1 Slides**: [Session 1: Introduction to the Course and Data Science](week_1.html)
 - **Week 2 Slides**: [Session 2: Data Visualization Basics and Tools Overview](week_2.html)
+- **Week 3 Slides**: [Session 3: Getting Started with Kaggle and Data Visualization](week_3.html)
+- **Week 4 Slides**: [Session 4: Exploring the Standard Dataset](week_4.html)
 
 
 - **Learning Resources**:
