@@ -57,17 +57,21 @@ The course concludes with **Assessment 3**: an **In-Class Open Book Exam** in We
 
 ## Course Materials
 
+### Slides
 - **Week 1 Slides**: [Session 1: Introduction to the Course and Data Science](week_1.html)
 - **Week 2 Slides**: [Session 2: Data Visualization Basics and Tools Overview](week_2.html)
 - **Week 3 Slides**: [Session 3: Getting Started with Kaggle and Data Visualization](week_3.html)
 - **Week 4 Slides**: [Session 4: Exploring the Standard Dataset](week_4.html)
 
+### Handouts
+- **Week 4 Handout**: [Week 4 Handout](week_4.html)
 
-- **Learning Resources**:
-  - *Python for Data Analysis* by Wes McKinney
-  - *Storytelling with Data* by Cole Nussbaumer Knaflic
-  - Kaggle Learn Modules
-- **Software and Tools**:
+### Learning Resources
+- **Python for Data Analysis** by Wes McKinney
+- **Storytelling with Data** by Cole Nussbaumer Knaflic
+- Kaggle Learn Modules
+
+### Software and Tools
   - Python
   - Jupyter Notebook
   - Kaggle
