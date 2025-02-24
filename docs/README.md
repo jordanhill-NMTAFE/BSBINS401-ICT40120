@@ -64,7 +64,7 @@ The course concludes with **Assessment 3**: an **In-Class Open Book Exam** in We
 - **Week 4 Slides**: [Session 4: Exploring the Standard Dataset](week_4.html)
 
 ### Handouts
-- **Week 4 Handout**: [Week 4 Handout](week_4.html)
+- **Week 4 Handout**: [Week 4 Handout](handouts/week_4.html)
 
 ### Learning Resources
 - **Python for Data Analysis** by Wes McKinney
