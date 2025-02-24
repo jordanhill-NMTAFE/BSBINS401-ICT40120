@@ -22,6 +22,7 @@ total_training: 135
 - Introduction to Matplotlib and Seaborn libraries
 
 *Activity*: Demonstrations of Jupyter Notebook and Kaggle interface; simple plotting exercises using provided code snippets.
+*Activity*: Students create Kaggle profiles and explore datasets; begin Kaggle Learn Module - Lesson 1.
 
 ---
 
@@ -30,7 +31,8 @@ total_training: 135
 - Understanding data visualization principles
 - Starting the Kaggle Learn: Data Visualization Module
 
-*Activity*: Students create Kaggle profiles and explore datasets; begin Kaggle Learn Module - Lesson 1.
+*Activity*: Kaggle Learn Modules - Lessons 2 and 3; creating visualizations to answer research questions.
+
 
 ---
 
@@ -48,7 +50,6 @@ total_training: 135
 - Analyzing data to identify patterns and trends
 - Ensuring data integrity and handling missing values
 
-*Activity*: Continuing Kaggle Learn Module - Lessons 2 and 3; creating visualizations to answer research questions.
 
 **Assessment 1 Start**
 

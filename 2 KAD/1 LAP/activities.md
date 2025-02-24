@@ -52,7 +52,11 @@
 
 **Required Tasks:**
 
-- **Complete:** [Kaggle Learn: Intro to Data Visualization, Lesson 1: Hello, Seaborn](https://www.kaggle.com/learn/data-visualization)
+- **Complete:** Kaggle Learn: Intro to Data Visualization  
+  - [Lesson 1: Hello, Seaborn](https://www.kaggle.com/learn/data-visualization)
+  - [Lesson 2: Line Charts](https://www.kaggle.com/learn/data-visualization)
+  - [Lesson 3: Bar Charts and Heatmaps](https://www.kaggle.com/learn/data-visualization)
+
 - **Read:** Python for Data Analysis by Wes McKinney, [Chapter 4: NumPy Basics](https://wesmckinney.com/book/numpy-basics)
 - **Review Slides:** [Getting Started with Kaggle and Data Visualization](https://example.com/slides-week3)
 
@@ -100,10 +104,6 @@
 ### Out of Class Activities
 
 **Required Tasks:**
-
-- **Complete:** Kaggle Learn: Intro to Data Visualization  
-  - [Lesson 2: Line Charts](https://www.kaggle.com/learn/data-visualization)
-  - [Lesson 3: Bar Charts and Heatmaps](https://www.kaggle.com/learn/data-visualization)
 
 - **Read:** Python for Data Analysis by Wes McKinney, [Chapter 9: Plotting and Visualization](https://wesmckinney.com/book/plotting-and-visualization)
 - **Review Slides:** [Data Analysis and Visualization Techniques](https://example.com/slides-week5)

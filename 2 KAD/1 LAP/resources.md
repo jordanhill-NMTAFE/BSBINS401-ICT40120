@@ -41,7 +41,11 @@
 <!-- Session 3 Resources Go Here -->
 
 ### Required Reading
-- **Kaggle Learn: Intro to Data Visualization,** [Lesson 1: Hello, Seaborn](https://www.kaggle.com/code/alexisbcook/hello-seaborn)
+- **Kaggle Learn: Intro to Data Visualization**
+  - [Lesson 1: Hello, Seaborn](https://www.kaggle.com/code/alexisbcook/hello-seaborn)
+  - [Lesson 2: Line Charts](https://www.kaggle.com/code/alexisbcook/line-charts)
+  - [Lesson 3: Bar Charts and Heatmaps](https://www.kaggle.com/code/alexisbcook/bar-charts-and-heatmaps)
+
 - **"Python for Data Analysis" by Wes McKinney,** [Chapter 4: NumPy Basics](https://wesmckinney.com/book/numpy-basics)
 
 ### Slides
@@ -54,7 +58,8 @@
 ### Lab Resources
 - **Lab: [Kaggle Interface Exploration](https://www.kaggle.com/)**
 - **Lab Exercise: [Kaggle Learn Module - Lesson 1](https://www.kaggle.com/learn/data-visualization/lesson/1)**
-
+- **Lab: [Line Charts](https://www.kaggle.com/code/alexisbcook/line-charts)**
+- **Lab: [Bar Charts and Heatmaps](https://www.kaggle.com/code/alexisbcook/bar-charts-and-heatmaps)**
 
 ---
 
@@ -86,9 +91,7 @@
 <!-- Session 5 Resources Go Here -->
 
 ### Required Reading
-- **Kaggle Learn: Intro to Data Visualization**
-  - [Lesson 2: Line Charts](https://www.kaggle.com/code/alexisbcook/line-charts)
-  - [Lesson 3: Bar Charts and Heatmaps](https://www.kaggle.com/code/alexisbcook/bar-charts-and-heatmaps)
+
 - **"Python for Data Analysis" by Wes McKinney**
   - [Chapter 9: Plotting and Visualization](https://wesmckinney.com/book/plotting-and-visualization)
 
@@ -99,9 +102,6 @@
 - **Activity: [Handling Missing Data](https://example.com/activity-missing-data)**
 - **Exercise: [Creating Visualizations to Answer Research Questions](https://example.com/exercise-visualizations)**
 
-### Lab Resources
-- **Lab: [Line Charts](https://www.kaggle.com/code/alexisbcook/line-charts)**
-- **Lab: [Bar Charts and Heatmaps](https://www.kaggle.com/code/alexisbcook/bar-charts-and-heatmaps)**
 
 ### Additional References
 - **Article: [Data Integrity in Analysis](https://www.datascience.com/blog/data-integrity-best-practices)**

@@ -123,7 +123,7 @@ print("\nMissing Values:\n", df.isna().sum())
 
 ---
 
-## Lab 1
+## Lab 2
 
 ### **Load the Dataset** > **Inspect the Data** > **Discuss** > **Visualize** 
 
