@@ -62,9 +62,13 @@ The course concludes with **Assessment 3**: an **In-Class Open Book Exam** in We
 - **Week 2 Slides**: [Session 2: Data Visualization Basics and Tools Overview](week_2.html)
 - **Week 3 Slides**: [Session 3: Getting Started with Kaggle and Data Visualization](week_3.html)
 - **Week 4 Slides**: [Session 4: Exploring the Standard Dataset](week_4.html)
+- **Week 5 Slides**: [Session 5: Advanced Exploratory Data Analysis & Report Preparation](week_5.html)
+- **Week 6 Slides**: [Session 6: Report Writing & Effective Visuals](week_6.html)
 
 ### Handouts
 - **Week 4 Handout**: [Week 4 Handout](handouts/week_4.html)
+- **Week 6 Activity**: [Peer Discussion on Findings](handouts/week_6_activity.md)
+- **Week 6 Workshop**: [Structuring Your Report](handout/week_6_workshop.md)
 
 ### Learning Resources
 - **Python for Data Analysis** by Wes McKinney
