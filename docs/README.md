@@ -68,7 +68,7 @@ The course concludes with **Assessment 3**: an **In-Class Open Book Exam** in We
 ### Handouts
 - **Week 4 Handout**: [Week 4 Handout](handouts/week_4.html)
 - **Week 6 Activity**: [Peer Discussion on Findings](handouts/week_6_activity.md)
-- **Week 6 Workshop**: [Structuring Your Report](handout/week_6_workshop.md)
+- **Week 6 Workshop**: [Structuring Your Report](handouts/week_6_workshop.md)
 
 ### Learning Resources
 - **Python for Data Analysis** by Wes McKinney
