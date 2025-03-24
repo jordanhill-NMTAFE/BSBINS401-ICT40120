@@ -39,25 +39,25 @@ sessions:
         performance:
           - Element 4 Present research information
 
-  - # Session 8: Introducing Independent Research Projects
-      - name: BSBINS401
-        performance:
-          - Element 1 Identify and confirm research strategy
-
-  - # Session 9: Developing Research Proposals
-      - name: BSBINS401
-        performance:
-          - Element 1 Identify and confirm research strategy
-
-  - # Session 10: Data Collection and Storage
-      - name: BSBINS401
-        performance:
-          - Element 2 Collect and store research information
-
-  - # Session 11: Advanced Data Analysis Techniques
+  - # Session 8: Advanced Data Analysis Techniques
       - name: BSBINS401
         performance:
           - Element 3 Analyse and synthesise research information
+
+  - # Session 9: Introducing Independent Research Projects
+      - name: BSBINS401
+        performance:
+          - Element 1 Identify and confirm research strategy
+
+  - # Session 10: Developing Research Proposals
+      - name: BSBINS401
+        performance:
+          - Element 1 Identify and confirm research strategy
+
+  - # Session 11: Data Collection and Storage
+      - name: BSBINS401
+        performance:
+          - Element 2 Collect and store research information
 
   - # Session 12: Customizing Visualizations
       - name: BSBINS401

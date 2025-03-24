@@ -177,6 +177,33 @@
 
 **Required Tasks:**
 
+- **Complete:** Kaggle Learn: Intro to Data Visualization  
+  - [Lesson 4: Line Charts](https://www.kaggle.com/learn/data-visualization)
+  - [Lesson 5: Practice: Choosing Plot Types and Custom Styles](https://www.kaggle.com/learn/data-visualization)
+
+- **Read:** [*Python for Data Analysis* by Wes McKinney, Chapter 10: Time Series](https://wesmckinney.com/book/time-series)
+- **Review Slides:** [Advanced Data Analysis Techniques](https://example.com/slides-week11)
+
+**Optional Activities:**
+
+- **Practice:** Multivariate analysis on your dataset.
+- **Read Article:** [Handling Complex Data Structures](https://www.dataversity.net/complex-data-structures/)
+
+**Preparation for Next Week:**
+
+- Continue analyzing your data.
+- Prepare any questions for the next class discussion.
+
+*Expected time: ~3 hours*
+
+---
+
+<!-- Session 9 Activities Go Here -->
+
+### Out of Class Activities
+
+**Required Tasks:**
+
 - **Read:** [Guide: Scoping a Research Project](https://example.com/guide-research-scoping)
 - **Read:** [*Python for Data Analysis* by Wes McKinney, Chapter 6: Data Loading, Storage, and File Formats](https://wesmckinney.com/book/data-loading-storage-and-file-formats)
 - **Review Slides:** [Introducing Independent Research Projects](https://example.com/slides-week8)
@@ -195,7 +222,7 @@
 
 ---
 
-<!-- Session 9 Activities Go Here -->
+<!-- Session 10 Activities Go Here -->
 
 ### Out of Class Activities
 
@@ -219,7 +246,7 @@
 
 ---
 
-<!-- Session 10 Activities Go Here -->
+<!-- Session 11 Activities Go Here -->
 
 ### Out of Class Activities
 
@@ -239,32 +266,7 @@
 
 *Expected time: ~3 hours*
 
----
 
-<!-- Session 11 Activities Go Here -->
-
-### Out of Class Activities
-
-**Required Tasks:**
-
-- **Complete:** Kaggle Learn: Intro to Data Visualization  
-  - [Lesson 4: Line Charts](https://www.kaggle.com/learn/data-visualization)
-  - [Lesson 5: Practice: Choosing Plot Types and Custom Styles](https://www.kaggle.com/learn/data-visualization)
-
-- **Read:** [*Python for Data Analysis* by Wes McKinney, Chapter 10: Time Series](https://wesmckinney.com/book/time-series)
-- **Review Slides:** [Advanced Data Analysis Techniques](https://example.com/slides-week11)
-
-**Optional Activities:**
-
-- **Practice:** Multivariate analysis on your dataset.
-- **Read Article:** [Handling Complex Data Structures](https://www.dataversity.net/complex-data-structures/)
-
-**Preparation for Next Week:**
-
-- Continue analyzing your data.
-- Prepare any questions for the next class discussion.
-
-*Expected time: ~3 hours*
 
 ---
 

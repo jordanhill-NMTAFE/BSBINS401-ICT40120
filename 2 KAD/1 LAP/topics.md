@@ -75,7 +75,16 @@ total_training: 135
 
 ---
 
-##### Week 8: Introducing Independent Research Projects
+##### Week 8: Advanced Data Analysis Techniques
+- Applying advanced statistical methods
+- Multivariate analysis
+- Handling complex datasets
+
+*Activity*: Continuing Kaggle Learn Module - Lessons 4 and 5, Scatter Plots and distributions.
+
+---
+
+##### Week 9: Introducing Independent Research Projects
 - Guidelines for scoping a research project
 - Finding and evaluating data sources
 - Ethical considerations in data selection
@@ -84,7 +93,7 @@ total_training: 135
 
 ---
 
-##### Week 9: Developing Research Proposals
+##### Week 10: Developing Research Proposals
 - Defining research objectives and questions
 - Formulating a research strategy
 - Planning data collection and analysis methods
@@ -95,7 +104,7 @@ total_training: 135
 
 ---
 
-##### Week 10: Data Collection and Storage
+##### Week 11: Data Collection and Storage
 - Methods for accessing and extracting data
 - Organizing data for analysis
 - Secure storage practices
@@ -104,14 +113,6 @@ total_training: 135
 
 ---
 
-##### Week 11: Advanced Data Analysis Techniques
-- Applying advanced statistical methods
-- Multivariate analysis
-- Handling complex datasets
-
-*Activity*: Continuing Kaggle Learn Module - Lessons 4 and 5, Scatter Plots and distributions, students analyze their datasets using learned techniques.
-
----
 
 ##### Week 12: Customizing Visualizations
 - Enhancing plots with custom styles and themes
@@ -122,7 +123,7 @@ total_training: 135
 
 ---
 
-##### Week 13: Synthesizing Research Findings
+##### Week 13: Synthesizing Research Findings – Writing Workshop
 - Drawing conclusions and identifying themes
 - Justifying assumptions with evidence
 - Critical analysis of results

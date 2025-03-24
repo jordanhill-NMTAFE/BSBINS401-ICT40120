@@ -151,7 +151,33 @@
 
 ---
 
+
 <!-- Session 8 Resources Go Here -->
+
+### Required Reading
+- **Kaggle Learn: Intro to Data Visualization**
+  - [Lesson 4: Scatter Plots](https://www.kaggle.com/code/alexisbcook/scatter-plots)
+  - [Lesson 5: Distributions](https://www.kaggle.com/code/alexisbcook/distributions)
+- **"Python for Data Analysis" by Wes McKinney,** [Chapter 10: Time Series](https://wesmckinney.com/book/time-series)   
+
+### Slides
+- **Slide Deck: [Advanced Data Analysis Techniques](https://example.com/slides-week11)**
+
+### Activities
+- **Activity: [Applying Advanced Statistical Methods](https://example.com/activity-advanced-stats)**
+- **Exercise: [Multivariate Analysis Practice](https://example.com/exercise-multivariate)**
+
+### Lab Resources
+- **Kaggle Learn: Lab 4, [Scatter Plots](https://www.kaggle.com/code/alexisbcook/scatter-plots)**
+- **Kaggle Learn: Lab 5, [Distributions](https://www.kaggle.com/code/alexisbcook/distributions)**
+
+### Additional References
+- **Article: [Handling Complex Data Structures](https://www.dataversity.net/complex-data-structures/)**
+
+
+---
+
+<!-- Session 9 Resources Go Here -->
 
 ### Required Reading
 - **Guide: [Scoping a Research Project](https://example.com/guide-research-scoping)**
@@ -174,7 +200,7 @@
 
 ---
 
-<!-- Session 9 Resources Go Here -->
+<!-- Session 10 Resources Go Here -->
 
 ### Required Reading
 - **Guide: [Writing a Research Proposal](https://www.monash.edu/student-academic-success/excel-at-writing/how-to-write/research-proposal)**
@@ -196,7 +222,7 @@
 
 ---
 
-<!-- Session 10 Resources Go Here -->
+<!-- Session 11 Resources Go Here -->
 
 ### Required Reading
 - **Article: [Data Collection Methods](https://www.questionpro.com/blog/data-collection-methods/)**
@@ -214,29 +240,6 @@
 - **Tutorial: [Using Databases with Python](https://example.com/tutorial-databases)**
 
 
----
-
-<!-- Session 11 Resources Go Here -->
-
-### Required Reading
-- **Kaggle Learn: Intro to Data Visualization**
-  - [Lesson 4: Scatter Plots](https://www.kaggle.com/code/alexisbcook/scatter-plots)
-  - [Lesson 5: Distributions](https://www.kaggle.com/code/alexisbcook/distributions)
-- **"Python for Data Analysis" by Wes McKinney,** [Chapter 10: Time Series](https://wesmckinney.com/book/time-series)   
-
-### Slides
-- **Slide Deck: [Advanced Data Analysis Techniques](https://example.com/slides-week11)**
-
-### Activities
-- **Activity: [Applying Advanced Statistical Methods](https://example.com/activity-advanced-stats)**
-- **Exercise: [Multivariate Analysis Practice](https://example.com/exercise-multivariate)**
-
-### Lab Resources
-- **Kaggle Learn: Lab 4, [Scatter Plots](https://www.kaggle.com/code/alexisbcook/scatter-plots)**
-- **Kaggle Learn: Lab 5, [Distributions](https://www.kaggle.com/code/alexisbcook/distributions)**
-
-### Additional References
-- **Article: [Handling Complex Data Structures](https://www.dataversity.net/complex-data-structures/)**
 
 ---
 <!-- Session 12 Resources Go Here -->

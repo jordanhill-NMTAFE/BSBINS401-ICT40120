@@ -64,6 +64,7 @@ The course concludes with **Assessment 3**: an **In-Class Open Book Exam** in We
 - **Week 4 Slides**: [Session 4: Exploring the Standard Dataset](week_4.html)
 - **Week 5 Slides**: [Session 5: Advanced Exploratory Data Analysis & Report Preparation](week_5.html)
 - **Week 6 Slides**: [Session 6: Report Writing & Effective Visuals](week_6.html)
+- **Week 6 Slides**: [Session 8: Introducing More Advanced Data Analysis Techniques](week_8.html)
 
 ### Handouts
 - **Week 4 Handout**: [Week 4 Handout](handouts/week_4.html)
