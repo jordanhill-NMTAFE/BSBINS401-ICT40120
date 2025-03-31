@@ -167,14 +167,14 @@ Lecturer: Jordan Hill
 ## Additional Resources
 
 - <strong>Required Reading</strong>  
-  • [Guide: Scoping a Research Project](https://example.com/guide-research-scoping)  
+  • [Guide: Scoping a Research Project](https://jordanhill-nmtafe.github.io/BSBINS401-ICT40120/guides/scoping-a-research-project.html)  
   • "Python for Data Analysis" by Wes McKinney, [Chapter 6](https://wesmckinney.com/book/accessing-data)
 
 - <strong>Optional Reading</strong>  
-  • [Ethical Considerations in Data Selection](https://www.datasciencecentral.com/profiles/blogs/ethics-in-data-science)
+  • [Ethical Considerations in Data Selection](https://www.datasciencecentral.com/data-scientists-role-amp-ethics/)
 
 - <strong>Templates</strong>  
-  • [Research Project Proposal Template](https://example.com/proposal-template)
+  • [Research Project Proposal Template](https://jordanhill-nmtafe.github.io/BSBINS401-ICT40120/guides/research-project-proposal-template.html)
 
 ---
 
