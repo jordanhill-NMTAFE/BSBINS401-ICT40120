@@ -133,7 +133,7 @@ You are required to:
 
 ### Submission Evidence
 
-- **Research Proposal**: Submit a research proposal outlining your project plan (submitted earlier in Week 9).
+- **Research Proposal**: Submit a research proposal outlining your project plan (submitted earlier in Week 10).
 - **Final Report**: Submit a comprehensive final report (1,500–2,500 words) via the LMS by the due date (Week 16).
 - **Presentation Slides**: Upload your presentation slides to the LMS before your scheduled presentation.
 - **In-Class Presentation**: Deliver a 15-minute presentation during the Week 16 class session.

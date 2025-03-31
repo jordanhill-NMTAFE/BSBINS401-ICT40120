@@ -64,12 +64,21 @@ The course concludes with **Assessment 3**: an **In-Class Open Book Exam** in We
 - **Week 4 Slides**: [Session 4: Exploring the Standard Dataset](week_4.html)
 - **Week 5 Slides**: [Session 5: Advanced Exploratory Data Analysis & Report Preparation](week_5.html)
 - **Week 6 Slides**: [Session 6: Report Writing & Effective Visuals](week_6.html)
-- **Week 6 Slides**: [Session 8: Introducing More Advanced Data Analysis Techniques](week_8.html)
+- **Week 8 Slides**: [Session 8: Introducing More Advanced Data Analysis Techniques](week_8.html)
+- **Week 9 Slides**: [Session 9: Introducing Independent Research Projects](week_9.html)
 
 ### Handouts
 - **Week 4 Handout**: [Week 4 Handout](handouts/week_4.html)
 - **Week 6 Activity**: [Peer Discussion on Findings](handouts/week_6_activity.md)
 - **Week 6 Workshop**: [Structuring Your Report](handouts/week_6_workshop.md)
+
+### Guides
+
+#### Session 9
+- [Scoping a Research Project](guides/scoping-a-research-project.md)
+- [Research Project proposal Template](guides/research-project-proposal-template.md)
+- [Data Source Evaluation Checklist](guides/data-source-evaluation-checklist)
+
 
 ### Learning Resources
 - **Python for Data Analysis** by Wes McKinney

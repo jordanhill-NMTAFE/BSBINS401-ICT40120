@@ -45,21 +45,24 @@ Lecturer: Jordan Hill
 
 ## Scoping a Research Project
 
-1. <strong>Clarify Objectives</strong>  
-   • Craft specific research questions or hypotheses.  
-   • Set realistic boundaries (timeframe, data availability).
-
-2. <strong>Define Scope & Feasibility</strong>  
-   • Consider resource constraints (skills, tools, time).  
-   • Avoid overly broad or ambiguous topics.
-
-3. <strong>Identify Potential Datasets</strong>  
-   • Public repositories (Kaggle, government portals).  
-   • Proprietary data (with permission/clearances).
-
-4. <strong>Plan the Analysis</strong>  
-   • Preliminary methodologies (statistical tests, visualizations).  
-   • Potential outcome or deliverables.
+<table style="width:100%; border-collapse: collapse; margin-top: 3em;">
+  <tr>
+    <td style="padding:8px; border:1px solid #ddd;"><strong>1. Clarify Objectives</strong><br>
+    • Craft specific research questions or hypotheses.<br>
+    • Set realistic boundaries (timeframe, data availability).</td>
+    <td style="padding:8px; border:1px solid #ddd;"><strong>3. Identify Potential Datasets</strong><br>
+    • Public repositories (Kaggle, government portals).<br>
+    • Proprietary data (with permission/clearances).</td>
+  </tr>
+  <tr>
+    <td style="padding:8px; border:1px solid #ddd;"><strong>2. Define Scope & Feasibility</strong><br>
+    • Consider resource constraints (skills, tools, time).<br>
+    • Avoid overly broad or ambiguous topics.</td>
+    <td style="padding:8px; border:1px solid #ddd;"><strong>4. Plan the Analysis</strong><br>
+    • Preliminary methodologies (statistical tests, visualizations).<br>
+    • Potential outcome or deliverables.</td>
+  </tr>
+</table>
 
 ---
 
@@ -82,21 +85,24 @@ Lecturer: Jordan Hill
 
 ## Evaluating Data Sources
 
-1. <strong>Reliability</strong>  
-   • Credible publisher (e.g., official government site or well-known research institution).  
-   • Peer-reviewed or verified sources.
-
-2. <strong>Completeness</strong>  
-   • Check for sufficient data points, minimal missing values.  
-   • Access to supporting documentation or codebooks.
-
-3. <strong>Timeliness & Relevance</strong>  
-   • Ensure data currency (outdated sets might be less useful).  
-   • Align with your research objectives or timeframe.
-
-4. <strong>Accessibility & Format</strong>  
-   • Permissions or licenses to use.  
-   • Formats amenable to analysis (CSV, Excel, JSON, SQL).
+<table style="width:100%; border-collapse: collapse; margin-top: 3em;">
+  <tr>
+    <td style="padding:8px; border:1px solid #ddd; width:50%;"><strong>1. Reliability</strong><br>
+    • Credible publisher (e.g., official government site or well-known research institution).<br>
+    • Peer-reviewed or verified sources.</td>
+    <td style="padding:8px; border:1px solid #ddd; width:50%;"><strong>3. Timeliness & Relevance</strong><br>
+    • Ensure data currency (outdated sets might be less useful).<br>
+    • Align with your research objectives or timeframe.</td>
+  </tr>
+  <tr>
+    <td style="padding:8px; border:1px solid #ddd; width:50%;"><strong>2. Completeness</strong><br>
+    • Check for sufficient data points, minimal missing values.<br>
+    • Access to supporting documentation or codebooks.</td>
+    <td style="padding:8px; border:1px solid #ddd; width:50%;"><strong>4. Accessibility & Format</strong><br>
+    • Permissions or licenses to use.<br>
+    • Formats amenable to analysis (CSV, Excel, JSON, SQL).</td>
+  </tr>
+</table>
 
 ---
 
@@ -121,7 +127,7 @@ Lecturer: Jordan Hill
 
 ## Assessment 2: Independent Research Project
 
-<table style="width:100%; border-collapse: collapse;">
+<table style="width:100%; border-collapse: collapse; margin-top: 3em;">
   <tr style="border: 1px solid #ddd;">
     <th style="padding:8px; border:1px solid #ddd;"><strong>Component</strong></th>
     <th style="padding:8px; border:1px solid #ddd;"><strong>Details</strong></th>
@@ -174,12 +180,17 @@ Lecturer: Jordan Hill
 
 ## Next Steps
 
-1. <strong>Select a Preliminary Topic</strong>  
-   • Finalize your independent research focus.  
-2. <strong>Gather Potential Datasets</strong>  
-   • Use your evaluation checklist to confirm feasibility.  
-3. <strong>Start Drafting Your Proposal</strong>  
-   • Outline objectives, methodology, expected outcomes.
+<br>
+
+#### Today's Objectives:
+
+<table style="margin: auto; border-collapse: collapse; width: 90%; border: 3px solid #4682B4;">
+  <tr style="border: 2px solid #4682B4;">
+    <td style="padding:15px; border:2px solid #4682B4; text-align: left;"><strong>1. Select a Preliminary Topic</strong><br/>• Finalize your independent research focus.</td>
+    <td style="padding:15px; border:2px solid #4682B4; text-align: left;"><strong>2. Gather Potential Datasets</strong><br/>• Use your evaluation checklist to confirm feasibility.</td>
+    <td style="padding:15px; border:2px solid #4682B4; text-align: left;"><strong>3. Start Drafting Your Proposal</strong><br/>• Outline objectives, methodology, expected outcomes.</td>
+  </tr>
+</table>
 
 ---
 
