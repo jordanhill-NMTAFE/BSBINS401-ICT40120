@@ -1,0 +1,5 @@
+Name,Age,Salary,Salary_after_tax
+Alice,25,50000,40000.0
+Bob,30,60000,48000.0
+Charlie,35,55000,44000.0
+David,40,65000,52000.0

@@ -80,9 +80,9 @@ The course concludes with **Assessment 3**: an **In-Class Open Book Exam** in We
 - [Data Source Evaluation Checklist](guides/data-source-evaluation-checklist)
 
 
-# Activities
+### Activities
 
-## Session 9
+#### Session 9
 - [Brainstorming Activity Sheet](activities/brainstorming.md) - For planning your research project
 - [Data Source Evaluation Activity](activities/data-sources.md) - Guide to critically assess potential datasets
 
