@@ -89,11 +89,15 @@ mapping:
 
 # Assessment Resources
 
-- **Student-Selected Dataset**: Students will identify and obtain their own dataset relevant to their research objectives.
-- **Software**: Python, Jupyter Notebook, and necessary libraries (Pandas, Matplotlib, Seaborn, Plotly).
-- **Templates**: Research proposal template, final report template, and presentation guidelines available on the LMS.
-- **Supplementary Materials**: Access to course readings, tutorials, and additional references.
-- **Organisational Policies and Procedures**: Provided on the LMS, including data security policies.
+**Student-Selected Dataset**: Students will identify and obtain their own dataset relevant to their research objectives.
+
+**Software**: Python, Jupyter Notebook, and necessary libraries (Pandas, Matplotlib, Seaborn, Plotly).
+
+**Templates**: Research proposal template, final report template, and presentation guidelines available on the LMS.
+
+**Supplementary Materials**: Access to course readings, tutorials, and additional references.
+
+**Organisational Policies and Procedures**: Provided on the LMS, including data security policies.
 
 # Assessment Instructions
 
@@ -105,39 +109,61 @@ You are acting as a data analyst for an organisation or industry sector of your 
 
 You are required to:
 
-1. **Identify Research Objectives and Develop Research Strategy**:
-   - Choose a topic and identify a problem or opportunity relevant to an organisation or industry sector.
-   - Identify potential sources for research information (datasets) relevant to your objectives.
-   - Assess the reliability of potential data sources.
-   - Confirm that your research strategy is appropriate and relevant to your research objectives.
+**Identify Research Objectives and Develop Research Strategy**:
+   
+1. Choose a topic and identify a problem or opportunity relevant to an organisation or industry sector.
 
-2. **Collect and Store Research Information**:
-   - Access and extract relevant information from the selected dataset.
-   - Organise the data in a format suitable for analysis and distribution.
-   - Store the research information securely, adhering to organisational policies and procedures.
+2. Identify potential sources for research information (datasets) relevant to your objectives.
 
-3. **Analyse Information and Synthesise Findings**:
-   - Analyse the stored information according to your research strategy.
-   - Identify themes and draw conclusions based on your analysis.
-   - Ensure that assumptions and conclusions are clear, justified, supported by evidence, and consistent with your research strategy.
+3. Assess the reliability of potential data sources.
 
-4. **Prepare the Final Report**:
-   - Identify methods of reporting that align with the intended audience and organisational requirements.
-   - Draft the research report, including all required sections and visualisations.
-   - Facilitate review of the draft report according to organisational policies and procedures.
+4. Confirm that your research strategy is appropriate and relevant to your research objectives.
 
-5. **Present Research Information and Obtain Feedback**:
-   - Prepare and deliver a presentation summarising your research objectives, methodology, findings, and conclusions.
-   - Distribute the final report according to organisational policies and procedures.
-   - Obtain feedback and comments on the suitability and sufficiency of your findings in accordance with organisational requirements.
+**Collect and Store Research Information**:
+   
+1. Access and extract relevant information from the selected dataset.
+
+2. Organise the data in a format suitable for analysis and distribution.
+
+3. Store the research information securely, adhering to organisational policies and procedures.
+
+**Analyse Information and Synthesise Findings**:
+    
+1. Analyse the stored information according to your research strategy.
+
+2. Identify themes and draw conclusions based on your analysis.
+
+3. Ensure that assumptions and conclusions are clear, justified, supported by evidence, and consistent with your research strategy.
+
+**Prepare the Final Report**:
+   
+1. Identify methods of reporting that align with the intended audience and organisational requirements.
+
+2. Draft the research report, including all required sections and visualisations.
+
+3. Facilitate review of the draft report according to organisational policies and procedures.
+
+**Present Research Information and Obtain Feedback**:
+   
+1. Prepare and deliver a presentation summarising your research objectives, methodology, findings, and conclusions.
+
+2. Distribute the final report according to organisational policies and procedures.
+
+3. Obtain feedback and comments on the suitability and sufficiency of your findings in accordance with organisational requirements.
 
 ### Submission Evidence
 
+You are required to submit the following evidence:
+
 - **Research Proposal**: Submit a research proposal outlining your project plan (submitted earlier in Week 10).
+
 - **Final Report**: Submit a comprehensive final report (1,000–2,000 words) via the LMS by the due date (Week 16).
-- **Presentation Slides**: Upload your presentation slides to the LMS before your scheduled presentation.
-- **In-Class Presentation**: Deliver a 15-minute presentation during the Week 16 class session.
-- **Observation Checklist**: Your instructor will complete the observation checklist during your presentation.
+
+- **Presentation Slides**: Upload your presentation slides to the LMS after your presentation.
+
+- **Observation Checklist**: Your instructor will complete the observation checklist during your presentation. **In-Class Presentation**: Deliver a 15-minute presentation during the Week 16 class session.
+
+
 
 # Assessment Instrument
 
@@ -147,121 +173,59 @@ You are required to:
 
 #### Instructions
 
-- **Choose a Research Topic**:
-  - Select an area of interest relevant to an organisation or industry sector.
-- **Identify Research Objectives**:
-  - Define at least two specific research objectives that address a problem or opportunity.
-- **Identify Potential Information Sources**:
-  - Research and identify potential datasets or information sources relevant to your objectives.
-- **Assess Reliability of Sources**:
-  - Evaluate the quality and reliability of your chosen data sources, considering aspects such as accuracy, authority, relevance, and likelihood of bias.
-- **Confirm Research Strategy**:
-  - Develop and confirm a research strategy that is appropriate and relevant to your objectives, utilising common research strategies.
+#### Task 1: Identify Research Objectives and Develop Research Strategy
 
-#### Response Requirements
+Begin by choosing a research topic relevant to an organisation or industry sector. Define at least two specific research objectives that address a problem or opportunity. Research and identify potential datasets or information sources that align with your objectives, and evaluate their quality and reliability—considering factors such as accuracy, authority, relevance, and likelihood of bias. Develop and confirm a research strategy that is appropriate for your objectives, making use of common research approaches.
 
-- **Research Proposal**:
-  - Submit a proposal including:
-    - Introduction and background
-    - Research objectives
-    - Proposed data sources and assessment of their reliability
-    - Research strategy outline
-- **Final Report**:
-  - Include a section titled "Research Objectives and Strategy" detailing the above.
+**Response Requirements:**  
+
+For this task, submit a research proposal that includes:
+
+- An introduction and background to your topic
+- Clearly stated research objectives
+- A summary of proposed data sources and your assessment of their reliability
+- An outline of your research strategy
+
 
 ---
 
 ### Task 2: Collect and Store Research Information
 
-#### Instructions
+**Instructions:**  
+Access your selected dataset(s) and collect relevant information in a format suitable for analysis. Organise the data effectively (for example, using dataframes in Pandas), and ensure it is stored securely in line with organisational policies and security requirements.
 
-- **Data Collection**:
-  - Access the selected dataset(s) and collect relevant information in a format suitable for analysis.
-- **Data Organisation**:
-  - Organise the data effectively for analysis (e.g., using dataframes in Pandas).
-- **Data Storage**:
-  - Ensure data is stored securely, following organisational policies and procedures related to accessing and storing information, and security requirements.
-
-#### Response Requirements
-
-- **Documentation**:
-  - In your report, include a "Data Collection and Storage" section.
-    - Explain how you accessed and collected the data.
-    - Describe how you organised the data for analysis.
-    - Document the security measures taken to store the data.
-- **Appendices**:
-  - Include any code snippets or methods used for data collection and storage.
+**Response Requirements:**  
+In your report, include a "Data Collection and Storage" section that explains how you accessed and collected the data, how you organised it for analysis, and what security measures you used to store it. Add any relevant code snippets or methods in the appendices.
 
 ---
 
 ### Task 3: Analyse Information and Synthesise Findings
 
-#### Instructions
+**Instructions:**  
+Analyse your data using appropriate methods and tools, ensuring your approach is efficient and reliable. Identify significant themes, patterns, or trends, and develop conclusions that are justified, evidence-based, and consistent with your research strategy. Clearly state any assumptions made during your analysis.
 
-- **Data Analysis**:
-  - Analyse the data using appropriate methods and tools, ensuring efficient and reliable research methods.
-- **Identify Themes and Patterns**:
-  - Identify significant themes, patterns, or trends in the data.
-- **Draw Conclusions**:
-  - Develop conclusions that are justified, evidence-based, and consistent with your research strategy.
-  - Clearly articulate any assumptions made during your analysis.
-
-#### Response Requirements
-
-- **Documentation**:
-  - Include a comprehensive "Data Analysis and Findings" section in your report.
-    - Present your analysis with appropriate visualisations and explanations.
-    - Discuss the themes and patterns identified.
-    - Justify your conclusions with evidence from your analysis.
-- **Appendices**:
-  - Provide detailed code and methodologies used in your analysis.
+**Response Requirements:**  
+Your report should contain a comprehensive "Data Analysis and Findings" section, presenting your analysis with visualisations and explanations, discussing identified themes and patterns, and justifying your conclusions with evidence. Include detailed code and methodologies in the appendices.
 
 ---
 
 ### Task 4: Prepare the Final Report
 
-#### Instructions
+**Instructions:**  
+Follow the professional report structure provided in the templates, ensuring all required sections are included: executive summary, introduction, methodology, analysis, conclusions, recommendations, references, and appendices. Seek feedback on your draft report according to organisational policies and revise it based on the feedback received.
 
-- **Report Structure**:
-  - Follow the professional report structure provided in the templates.
-  - Ensure all required sections are included: executive summary, introduction, methodology, analysis, conclusions, recommendations, references, and appendices.
-- **Facilitate Review**:
-  - Seek feedback on your draft report according to organisational policies.
-  - Revise the report based on the feedback received.
-
-#### Response Requirements
-
-- **Documentation**:
-  - Submit a polished final report adhering to the word limit (1,000–2,000 words).
-  - Demonstrate professional writing, formatting, and presentation, following organisational policies on the form and content of research reports.
-  - Include a "Facilitation of Review" section detailing how feedback was incorporated.
-- **Submission**:
-  - Submit the final report via the LMS by the due date.
+**Response Requirements:**  
+Submit a polished final report (1,000–2,000 words) that demonstrates professional writing, formatting, and presentation, and adheres to organisational policies on the form and content of research reports. Submit the final report via the LMS by the due date.
 
 ---
 
 ### Task 5: Present Research Information and Obtain Feedback
 
-#### Instructions
+**Instructions:**  
+Develop a presentation that effectively summarises your research project, using visual aids and storytelling techniques to engage your audience. Present your findings to the class in a 15-minute session, encourage questions and discussion, and gather feedback on the suitability and sufficiency of your findings.
 
-- **Prepare Presentation**:
-  - Develop a presentation that effectively summarises your research project.
-  - Use visual aids and storytelling techniques to engage the audience.
-- **Deliver Presentation**:
-  - Present your findings to the class in a 15-minute session.
-  - Engage with the audience and communicate your research effectively.
-- **Obtain Feedback**:
-  - Encourage questions and discussions.
-  - Gather feedback on the suitability and sufficiency of your findings in accordance with organisational requirements.
-
-#### Response Requirements
-
-- **Slides**:
-  - Submit your presentation slides via the LMS prior to presenting.
-- **In-Class**:
-  - Deliver your presentation during the scheduled session.
-- **Post-Presentation**:
-  - Include a "Feedback and Reflection" section in your report summarising the feedback received and your reflections.
-- **Observation**:
-  - Your instructor will assess your presentation using the observation checklist.
-
+**Response Requirements:**  
+- Submit your presentation slides via the LMS prior to presenting.
+- Deliver your presentation during the scheduled session.
+- After your presentation, include a "Feedback and Reflection" section in your report summarising the feedback received and your own reflections.
+- Your instructor will assess your presentation using the observation checklist.
